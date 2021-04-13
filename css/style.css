@@ -1,0 +1,73 @@
+*{
+   margin: 0;
+   padding: 0;
+   height: 100%;
+   text-align: center;
+}
+.left{
+    overflow: hidden;
+    float: left;
+    width: 30%;
+}
+.upper-left{
+    background-color: aquamarine;
+    height: 20%;
+
+}
+.lower-left{
+    background-color: rgb(195, 152, 235);
+    height: 80%;
+}
+.right{
+    overflow: hidden;
+    float: left;
+    width: 70%;
+
+}
+.up-right{
+    overflow: hidden;
+    height: 75%;
+
+}
+.up1{
+    float: left;
+    width: 50%;
+    overflow: hidden;
+
+}
+.up1-part1{
+    background-color: rgb(212, 124, 124);
+    height: 60%;
+
+}
+.up1-part2{
+    background-color: cornsilk;
+
+}
+.up2{
+    float: right;
+    background-color: rgb(255, 147, 169);
+    width: 50%;
+
+}
+.low-right{
+    overflow: hidden;
+
+}
+.low1{
+    background-color: darkcyan;
+    width: 25%;
+    float: left;
+
+}
+.low2{
+    background-color: darkgray;
+    width: 50%;
+    float: left;
+
+}
+.low3{
+    background-color: darksalmon;
+    width: 25%;
+    float: right;
+}
